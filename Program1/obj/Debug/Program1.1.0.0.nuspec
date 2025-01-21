@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Program1</id>
+    <version>1.0.0</version>
+    <authors>Program1</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="c25beef9d017b4427ad645130aeab9144768466e" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\DSU\Documents\School\BAP-CIS251\Program1\bin\Debug\net8.0-windows\Program1.runtimeconfig.json" target="lib\net8.0-windows7.0\Program1.runtimeconfig.json" />
+    <file src="C:\Users\DSU\Documents\School\BAP-CIS251\Program1\bin\Debug\net8.0-windows\Program1.dll" target="lib\net8.0-windows7.0\Program1.dll" />
+  </files>
+</package>
