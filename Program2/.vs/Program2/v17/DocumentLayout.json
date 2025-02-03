@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DSU\\Documents\\School\\BAP-CIS251\\Program2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBB8EF5-8434-4ECA-9EAB-18143C33B83A}|Program2.csproj|c:\\users\\dsu\\documents\\school\\bap-cis251\\program2\\frmticketcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FBB8EF5-8434-4ECA-9EAB-18143C33B83A}|Program2.csproj|solutionrelative:frmticketcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBB8EF5-8434-4ECA-9EAB-18143C33B83A}|Program2.csproj|c:\\users\\dsu\\documents\\school\\bap-cis251\\program2\\frmticketcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBB8EF5-8434-4ECA-9EAB-18143C33B83A}|Program2.csproj|solutionrelative:frmticketcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBB8EF5-8434-4ECA-9EAB-18143C33B83A}|Program2.csproj|c:\\users\\dsu\\documents\\school\\bap-cis251\\program2\\frmticketcalculator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBB8EF5-8434-4ECA-9EAB-18143C33B83A}|Program2.csproj|solutionrelative:frmticketcalculator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmTicketCalculator.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DSU\\Documents\\School\\BAP-CIS251\\Program2\\frmTicketCalculator.cs",
+              "RelativeDocumentMoniker": "frmTicketCalculator.cs",
+              "ToolTip": "C:\\Users\\DSU\\Documents\\School\\BAP-CIS251\\Program2\\frmTicketCalculator.cs [Design]",
+              "RelativeToolTip": "frmTicketCalculator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T23:11:15.023Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmTicketCalculator.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DSU\\Documents\\School\\BAP-CIS251\\Program2\\frmTicketCalculator.Designer.cs",
+              "RelativeDocumentMoniker": "frmTicketCalculator.Designer.cs",
+              "ToolTip": "C:\\Users\\DSU\\Documents\\School\\BAP-CIS251\\Program2\\frmTicketCalculator.Designer.cs",
+              "RelativeToolTip": "frmTicketCalculator.Designer.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAYwB8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T23:10:52.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmTicketCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\DSU\\Documents\\School\\BAP-CIS251\\Program2\\frmTicketCalculator.cs",
+              "RelativeDocumentMoniker": "frmTicketCalculator.cs",
+              "ToolTip": "C:\\Users\\DSU\\Documents\\School\\BAP-CIS251\\Program2\\frmTicketCalculator.cs",
+              "RelativeToolTip": "frmTicketCalculator.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T23:10:18.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\DSU\Documents\School\BAP-CIS251\Program2\bin\Debug\net8.0-windows\Program2.exe
+C:\Users\DSU\Documents\School\BAP-CIS251\Program2\bin\Debug\net8.0-windows\Program2.deps.json
+C:\Users\DSU\Documents\School\BAP-CIS251\Program2\bin\Debug\net8.0-windows\Program2.runtimeconfig.json
+C:\Users\DSU\Documents\School\BAP-CIS251\Program2\bin\Debug\net8.0-windows\Program2.dll
+C:\Users\DSU\Documents\School\BAP-CIS251\Program2\bin\Debug\net8.0-windows\Program2.pdb
+C:\Users\DSU\Documents\School\BAP-CIS251\Program2\obj\Debug\net8.0-windows\Program2.frmTicketCalculator.resources
+C:\Users\DSU\Documents\School\BAP-CIS251\Program2\obj\Debug\net8.0-windows\Program2.csproj.GenerateResource.cache
+C:\Users\DSU\Documents\School\BAP-CIS251\Program2\obj\Debug\net8.0-windows\Program2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DSU\Documents\School\BAP-CIS251\Program2\obj\Debug\net8.0-windows\Program2.AssemblyInfoInputs.cache
+C:\Users\DSU\Documents\School\BAP-CIS251\Program2\obj\Debug\net8.0-windows\Program2.AssemblyInfo.cs
+C:\Users\DSU\Documents\School\BAP-CIS251\Program2\obj\Debug\net8.0-windows\Program2.csproj.CoreCompileInputs.cache
+C:\Users\DSU\Documents\School\BAP-CIS251\Program2\obj\Debug\net8.0-windows\Program2.sourcelink.json
+C:\Users\DSU\Documents\School\BAP-CIS251\Program2\obj\Debug\net8.0-windows\Program2.dll
+C:\Users\DSU\Documents\School\BAP-CIS251\Program2\obj\Debug\net8.0-windows\refint\Program2.dll
+C:\Users\DSU\Documents\School\BAP-CIS251\Program2\obj\Debug\net8.0-windows\Program2.pdb
+C:\Users\DSU\Documents\School\BAP-CIS251\Program2\obj\Debug\net8.0-windows\Program2.genruntimeconfig.cache
+C:\Users\DSU\Documents\School\BAP-CIS251\Program2\obj\Debug\net8.0-windows\ref\Program2.dll
